@@ -5,12 +5,6 @@ import time
 import requests
 
 
-# class download(object):
-#     """docstring for download"""
-#     def __init__(self, arg):
-#         super(download, self).__init__()
-#         self.arg = arg
-#     def self.getPaperDict():
 
 
 
